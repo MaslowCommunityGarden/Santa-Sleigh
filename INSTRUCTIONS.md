@@ -1,7 +1,1 @@
-Edit this file to add assembly instructions
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+This is a timely project that will need to be monitored closely, especially in the bottom corners. Three sheets of 3/4 inch baltic birch was used. Maslow was used for the outer sleigh portion. Included are the Makercam svg and nc files for the left and right sides. In the 01 file there are 2 dowel pockets that I did not use. Furniture bolts and barrellnuts were used to pull everything together. Here is the original post https://forums.maslowcnc.com/t/full-size-santa-sleigh/7766/11
